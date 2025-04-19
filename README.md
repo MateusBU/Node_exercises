@@ -7,7 +7,7 @@
 ## Modules used
 - **Loadash**: Function to use random numbers
 - **nodemon**: Module to use while debug the code. It refreshes and the code changes. 'rs' restarts;
-
+-- **Body Parser**: Node.js middleware that parses incoming request bodies (like JSON or URL-encoded data). It can can be easily accessed via `req.body`.
 ## Commands
 
 - **npm init -y**: create package.json
